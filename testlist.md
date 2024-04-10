@@ -1,7 +1,7 @@
 ---
-layout: review
-title: BBQ Grill
-picture: /img/reviews/BBQ/BBQ.jpg
+layout: list
+title: test list
+picture: /img/lists/crowbot/crowbot.png
 updated: April 2024
 related:
     - coolers
