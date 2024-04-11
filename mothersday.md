@@ -1,7 +1,7 @@
 ---
 layout: review
 title: Mother's Day Gifts
-picture: /img/reviews/mothersday/mothersday.jpg
+picture: /img/lists/mothersday/mothersday.jpg
 updated: April 2024
 related:
     - WaterBottles
@@ -35,14 +35,14 @@ Sometimes the most memorable gifts are experiences that create lasting memories.
 
 | | Our Pick | Link | Price |
 |:--|:--|:--|:--|:--|
-| ![Ice Hat](/img/reviews/mothersday/mothersday1.jpg){: width="50px"} | TheraICE Migraine Relief Cap | [Amazon](https://amzn.to/3PVbkx8) | $29.95 |
-| ![Bird feeder](/img/reviews/mothersday/mothersday2.jpg){: width="50px"} | NETVUE Birdfy Bird Feeder with Camera | [Amazon](https://amzn.to/3VZs7TP) | $169.99 |
-| ![pillow slides](/img/reviews/mothersday/mothersday3.jpg){: width="50px"} | BRONAX Pillow Slippers for Women | [Amazon](https://amzn.to/3Uc8w15) | $20.38 |
-| ![Noise Canceling Headphone](/img/reviews/mothersday/mothersday4.jpg){: width="50px"} | Soundcore Anker Life Q20 Hybrid Active Noise Canceling Headphones | [Amazon](https://amzn.to/3PUhBcE) | $49.99 |
-| ![Paperage Lined Journal Notebook](/img/reviews/mothersday/mothersday5.jpg){: width="50px"} | Paperage Lined Journal Notebook | [Amazon](https://amzn.to/3VUdSPO) | $9.95 |
-| ![Sea Glass Earrings](/img/reviews/mothersday/mothersday6.jpg){: width="50px"} | Sea Glass Earrings Blue Beach | [Amazon](https://amzn.to/4av4oiF) | $13.99 |
-| ![Milk Frother](/img/reviews/mothersday/mothersday7.jpg){: width="50px"} | Zulay Kitchen Powerful Milk Frother | [Amazon](https://amzn.to/3xxgWrj) | $9.99 |
-| ![Apple Air Tags](/img/reviews/mothersday/mothersday8.jpg){: width="50px"} | Apple AirTag 4 Pack | [Amazon](https://amzn.to/3UcWAMB) | $79.99 
+| ![Ice Hat](/img/lists/mothersday/mothersday1.jpg){: width="50px"} | TheraICE Migraine Relief Cap | [Amazon](https://amzn.to/3PVbkx8) | $29.95 |
+| ![Bird feeder](/img/lists/mothersday/mothersday2.jpg){: width="50px"} | NETVUE Birdfy Bird Feeder with Camera | [Amazon](https://amzn.to/3VZs7TP) | $169.99 |
+| ![pillow slides](/img/lists/mothersday/mothersday3.jpg){: width="50px"} | BRONAX Pillow Slippers for Women | [Amazon](https://amzn.to/3Uc8w15) | $20.38 |
+| ![Noise Canceling Headphone](/img/lists/mothersday/mothersday4.jpg){: width="50px"} | Soundcore Anker Life Q20 Hybrid Active Noise Canceling Headphones | [Amazon](https://amzn.to/3PUhBcE) | $49.99 |
+| ![Paperage Lined Journal Notebook](/img/lists/mothersday/mothersday5.jpg){: width="50px"} | Paperage Lined Journal Notebook | [Amazon](https://amzn.to/3VUdSPO) | $9.95 |
+| ![Sea Glass Earrings](/img/lists/mothersday/mothersday6.jpg){: width="50px"} | Sea Glass Earrings Blue Beach | [Amazon](https://amzn.to/4av4oiF) | $13.99 |
+| ![Milk Frother](/img/lists/mothersday/mothersday7.jpg){: width="50px"} | Zulay Kitchen Powerful Milk Frother | [Amazon](https://amzn.to/3xxgWrj) | $9.99 |
+| ![Apple Air Tags](/img/lists/mothersday/mothersday8.jpg){: width="50px"} | Apple AirTag 4 Pack | [Amazon](https://amzn.to/3UcWAMB) | $79.99 
 | ![Make up](/img/reviews/mothersday/mothersday9.jpg){: width="50px"} | Boom! By Cindy Joseph Cosmetic Boomstick Trio | [Amazon](https://amzn.to/4ashX2r) | $79.99 |
 
      Listed prices are accurate at time of review.
