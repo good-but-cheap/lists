@@ -43,6 +43,6 @@ Sometimes the most memorable gifts are experiences that create lasting memories.
 | ![Sea Glass Earrings](/img/lists/mothersday/mothersday6.jpg){: width="50px"} | Sea Glass Earrings Blue Beach | [Amazon](https://amzn.to/4av4oiF) | $13.99 |
 | ![Milk Frother](/img/lists/mothersday/mothersday7.jpg){: width="50px"} | Zulay Kitchen Powerful Milk Frother | [Amazon](https://amzn.to/3xxgWrj) | $9.99 |
 | ![Apple Air Tags](/img/lists/mothersday/mothersday8.jpg){: width="50px"} | Apple AirTag 4 Pack | [Amazon](https://amzn.to/3UcWAMB) | $79.99 
-| ![Make up](/img/reviews/mothersday/mothersday9.jpg){: width="50px"} | Boom! By Cindy Joseph Cosmetic Boomstick Trio | [Amazon](https://amzn.to/4ashX2r) | $79.99 |
+| ![Make up](/img/lists/mothersday/mothersday9.jpg){: width="50px"} | Boom! By Cindy Joseph Cosmetic Boomstick Trio | [Amazon](https://amzn.to/4ashX2r) | $79.99 |
 
      Listed prices are accurate at time of review.
