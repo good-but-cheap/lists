@@ -16,7 +16,9 @@ categories:
 ## Considerations
 | | |
 |:--|-:-|
-| <td colspan="2">Interests and Hobbies <br /> Pay Attention to Needs <br /> Create an Experience</ td>I | ![Mothers day graphic](/img/lists/mothersday/mothersday.jpg){: width="80%"} |                                       
+| Interests and Hobbies |
+|^ Pay Attention to Needs |
+|^ Create an Experience | ![Mothers day graphic](/img/lists/mothersday/mothersday.jpg){: width="80%"} |                                       
 
 ## What you need to know
 Mother’s Day is a time to honor and celebrate the incredible women who have shaped our lives with love, guidance, and unwavering support. It’s an opportunity to express gratitude and appreciation for all that mothers do. One of the most meaningful ways to show your love on Mother’s Day is by selecting a thoughtful gift that reflects her interests, personality, and the special bond you share. Here’s a what we look for in a Mother's Day gift:
