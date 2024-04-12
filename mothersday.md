@@ -13,7 +13,7 @@ categories:
     - gifts
 ---
 
- ![Mothers day graphic](/img/lists/mothersday/mothersday.jpg){: width="60%"}
+ ![Mothers day graphic](/img/lists/mothersday/mothersday.jpg){: width="40%"}
  
 ## Considerations
 - Interests and Hobbies
