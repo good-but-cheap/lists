@@ -13,6 +13,7 @@ categories:
     - gifts
 ---
 
+| | |
 |:--|:--|
 | ## Considerations - Interests and Hobbies - Pay Attention to Needs - Create an Experience | /img/lists/mothersday/mothersday.jpg |
 
