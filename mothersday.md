@@ -14,7 +14,7 @@ categories:
 ---
 
 | Considerations | |
-|:--|:--|
+|:--|-:-|
 | Interests and Hobbies <br /> Pay Attention to Needs <br /> Create an Experience  | ![Mothers day graphic](/img/lists/mothersday/mothersday.jpg){: width="80%"} |                                       
 
 ## What you need to know
