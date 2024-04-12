@@ -15,6 +15,7 @@ categories:
 
  <img align="right" width="350" height="350" src="/img/lists/mothersday/mothersday.jpg" hspace="20">
  
+[!NOTE]
 ## Considerations
 - Interests and Hobbies
 - Pay Attention to Needs
