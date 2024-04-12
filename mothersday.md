@@ -13,7 +13,7 @@ categories:
     - gifts
 ---
 
- ![Mothers day graphic](/img/lists/mothersday/mothersday.jpg){: width="40%"}
+ <img align="right" width="80" height="80" src="![Mothers day graphic](/img/lists/mothersday/mothersday.jpg)">
  
 ## Considerations
 - Interests and Hobbies
