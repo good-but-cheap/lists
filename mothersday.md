@@ -13,7 +13,7 @@ categories:
     - gifts
 ---
 
- <img align="right" width="150" height="150" src="/img/lists/mothersday/mothersday.jpg">
+ <img align="right" width="350" height="350" src="/img/lists/mothersday/mothersday.jpg">
  
 ## Considerations
 - Interests and Hobbies
