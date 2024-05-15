@@ -14,6 +14,7 @@ categories:
 ## Considerations
 - Understand his interests
 - Consider Practicality
+- Pay attention to details
 
 ## What you need to know
 Father's Day is a special occasion dedicated to celebrating the fathers and father figures in our lives. One of the best ways to show appreciation on this day is by selecting a thoughtful gift that reflects his interests and personality. Here's what we look for in a Father's Day gift.
@@ -33,7 +34,7 @@ Take note of any hints dropped in conversations leading up to Father's Day. He m
 
 | | Our Pick | Link | Price |
 |:--|:--|:--|:--|
-| ![Klahaite Bug Zapper Outdoor Electric, Mosquito Zapper Indoor, Fly Zapper, Fly Trap, Insect Trap for Garden Backyard Patio,3 Prong Plug, Black](/img/lists/coolers/cooler1.jpg){: width="50px"} | Klahaite Bug Zapper Outdoor Electric, Mosquito Zapper Indoor, Fly Zapper, Fly Trap, Insect Trap for Garden Backyard Patio,3 Prong Plug, Black | [Amazon](https://amzn.to/3KnDP3D) | $29.99 |
+| ![Klahaite Bug Zapper Outdoor Electric, Mosquito Zapper Indoor, Fly Zapper, Fly Trap, Insect Trap for Garden Backyard Patio,3 Prong Plug, Black](/img/lists/fathersday/fathersday1.jpg){: width="50px"} | Klahaite Bug Zapper Outdoor Electric, Mosquito Zapper Indoor, Fly Zapper, Fly Trap, Insect Trap for Garden Backyard Patio,3 Prong Plug, Black | [Amazon](https://amzn.to/3KnDP3D) | $29.99 |
 | ![TOZO T12 Wireless Earbuds Bluetooth 5.3 Headphones Premium Sound Performance Touch Control LED Digital Display Wireless Charging Case Earphones Dark Black](/img/lists/fathersday/fathersday2.jpg){: width="50px"} | TOZO T12 Wireless Earbuds Bluetooth 5.3 Headphones Premium Sound Performance Touch Control LED Digital Display Wireless Charging Case Earphones Dark Black | [Amazon](https://amzn.to/4aCyyjn) | $28.49 |
 | ![40x60 High Definition Monocular, High Power BAK-4 Prism and FMC Lens Monocular for Smartphone, Suitable for Bird Watching/Wildlife/Hunting/Hiking.](/img/lists/fathersday/fathersday3.jpg){: width="50px"} | 40x60 High Definition Monocular, High Power BAK-4 Prism and FMC Lens Monocular for Smartphone, Suitable for Bird Watching/Wildlife/Hunting/Hiking. | [Amazon](https://amzn.to/3WIa84t) | $199.99 |
 | ![Power Strip, SUPERDANNY Surge Protector with 22 AC Outlets and 6 USB Charging Ports, 1875W/15A, 2100 Joules, 6.5Ft Flat Plug Heavy Duty Extension Cord for Home, Office, Dorm, Gaming Room, Black](/img/lists/fathersday/fathersday4.jpg){: width="50px"} | Power Strip, SUPERDANNY Surge Protector with 22 AC Outlets and 6 USB Charging Ports, 1875W/15A, 2100 Joules, 6.5Ft Flat Plug Heavy Duty Extension Cord for Home, Office, Dorm, Gaming Room, Black | [Amazon](https://amzn.to/3K4IzLm) | $25.99 |
